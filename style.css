@@ -55,7 +55,7 @@ body {margin: 0;font-family: "Inter", sans-serif;}
 .hamburger {font-size: 24px;cursor: pointer;display: none; /* Hidden by default */}
 
 
-header.frame-wrapper {width: 100%;background: #000;margin-bottom: 30px;}
+header.frame-wrapper {width: 100%;background: #292e33;margin-bottom: 30px;}
 header.frame-wrapper .row {align-items: center;justify-content: space-between;}
 header.frame-wrapper .row .text-right {text-align: right;}
 #hamburger-menu {display: none;height: auto;align-items: flex-start;gap: 4px;padding: 32px;position: absolute;top: 50px;right: 70px;width: 250px;background-color: #ffffff99;border-radius: 12px;box-shadow: 0px 4px 4px #00000040;backdrop-filter: blur(48px) brightness(100%);-webkit-backdrop-filter: blur(48px) brightness(100%);}
